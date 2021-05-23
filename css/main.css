@@ -404,9 +404,10 @@ button {
 .account_name p {
   color: rgba(174, 174, 174, 1);
 }
-.last-block {
+.container-transaction {
   display: flex;
   justify-content: space-around;
+  flex-direction: row;
 }
 
 .container-new__transaction {
